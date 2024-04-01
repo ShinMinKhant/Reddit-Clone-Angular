@@ -1,7 +1,7 @@
 # Reddit-Clone-Angular
 Reddit Clone (Frontend)
 
-This frontend of Reddit Clone is built using Angular. The backend is built using Spring Boot and you can find the source code here:
+This frontend of Reddit Clone is built using Angular. The backend is built using Spring Boot and you can find the source code here: https://github.com/ShinMinKhant/Reddit-Clone-Spring
 
 Reference: freeCodeCamp
 
